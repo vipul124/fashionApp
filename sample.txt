@@ -1,0 +1,162 @@
+{
+    "videos": [
+        {
+            "id": "7d12aabe-7a53-478c-8f52-05f3695ae94a",
+            "user": {
+                "id": "c568bff8-56c2-4756-b962-82d8af970be8",
+                "username": "vipul124",
+                "display_name": "Vipul",
+                "profile_picture_url": "",
+                "bio": "test sample",
+                "followers_count": 537,
+                "verified": true
+            },
+            "products": [
+                {
+                    "id": "3f752c12-d833-40bb-9307-1ff2b53a1abb",
+                    "store": {
+                        "id": "67919d90-2e7b-4c6f-a9ac-794449a2b807",
+                        "name": "Myntra",
+                        "logo_url": "https://i.pinimg.com/736x/72/5d/42/725d42fb10fe3fbf5239b86897c55780.jpg"
+                    },
+                    "variants": [],
+                    "name": "Black Oversized Hoodie",
+                    "price": "1999.00",
+                    "original_price": "1999.00",
+                    "discount_percentage": "0.00",
+                    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_Hz9WrPIvEp4PP_RqsZjUPYzTvBufG_1dJjbB-4blJfi8mIWeXjmBzPGNBb7vUOcY0kJrVGAgHl0T3QdWkm0u0e32IuyrLOUqxMf7H7hB",
+                    "timestamp": "2024-10-14T20:01:54.743295Z",
+                    "currency": "INR",
+                    "in_stock": true
+                },
+                {
+                    "id": "6cd49db6-94fd-441a-84e7-276bce246d00",
+                    "store": {
+                        "id": "c902d2d8-2f8a-460f-bbd0-448eb8b6becb",
+                        "name": "WestSide",
+                        "logo_url": ""
+                    },
+                    "variants": [
+                        {
+                            "id": "86eec169-518c-4e6d-93f3-9dd9adccff0f",
+                            "name": "Size",
+                            "options": [
+                                "S",
+                                "M",
+                                "L",
+                                "XXL"
+                            ]
+                        },
+                        {
+                            "id": "3a8a07f2-a115-4b93-a071-b396e509151e",
+                            "name": "Hood",
+                            "options": [
+                                "yes",
+                                "no"
+                            ]
+                        }
+                    ],
+                    "name": "Pink Regular Hoodie",
+                    "price": "2299.00",
+                    "original_price": "2299.00",
+                    "discount_percentage": "0.00",
+                    "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ_Hz9WrPIvEp4PP_RqsZjUPYzTvBufG_1dJjbB-4blJfi8mIWeXjmBzPGNBb7vUOcY0kJrVGAgHl0T3QdWkm0u0e32IuyrLOUqxMf7H7hB",
+                    "timestamp": "2024-10-14T21:04:20.996066Z",
+                    "currency": "INR",
+                    "in_stock": true
+                }
+            ],
+            "music": {
+                "id": "f08ccb70-1656-40db-a948-3bb6ed6689cf",
+                "name": "Beggin'",
+                "artist": "MANESKIN",
+                "cover_url": "https://i.scdn.co/image/ab67616d00001e02fa0ab3a28b5c52d8a5f97045"
+            },
+            "video_url": "https://youtu.be/yDbg3SGQ2DQ?si=FJVVWcyLuLEW0dl0",
+            "thumbnail_url": "https://i.ytimg.com/vi/TNzpBP6B98c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUC8NuxOwuG8h2mPVuKx-uaE_1Hg",
+            "description": "India's got Latent EP08",
+            "view_count": 1820000,
+            "duration": "00:54:32",
+            "created_at": "2024-10-14T21:15:11.796119Z",
+            "likes_count": 24569,
+            "comments_count": 0,
+            "shares_count": 0,
+            "is_liked": true,
+            "is_bookmarked": false,
+            "hashtags": [
+                "#LATENT",
+                "#YT",
+                "#FASHION"
+            ]
+        },
+        {
+            "id": "6dae9df2-e221-4f4c-9bc4-945715b50d65",
+            "user": {
+                "id": "c568bff8-56c2-4756-b962-82d8af970be8",
+                "username": "vipul124",
+                "display_name": "Vipul",
+                "profile_picture_url": "",
+                "bio": "test sample",
+                "followers_count": 537,
+                "verified": true
+            },
+            "products": [],
+            "music": {
+                "id": "f08ccb70-1656-40db-a948-3bb6ed6689cf",
+                "name": "Beggin'",
+                "artist": "MANESKIN",
+                "cover_url": "https://i.scdn.co/image/ab67616d00001e02fa0ab3a28b5c52d8a5f97045"
+            },
+            "video_url": "https://youtu.be/yDbg3SGQ2DQ?si=FJVVWcyLuLEW0dl0",
+            "thumbnail_url": "https://i.ytimg.com/vi/TNzpBP6B98c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUC8NuxOwuG8h2mPVuKx-uaE_1Hg",
+            "description": "India's got Latent EP08",
+            "view_count": 1820000,
+            "duration": "00:54:32",
+            "created_at": "2024-10-14T21:37:28.238551Z",
+            "likes_count": 24569,
+            "comments_count": 0,
+            "shares_count": 0,
+            "is_liked": true,
+            "is_bookmarked": false,
+            "hashtags": [
+                "#LATENT",
+                "#YT",
+                "#FASHION"
+            ]
+        },
+        {
+            "id": "ceeea0f9-2095-48fe-995c-6ecc02c3e420",
+            "user": {
+                "id": "c568bff8-56c2-4756-b962-82d8af970be8",
+                "username": "vipul124",
+                "display_name": "Vipul",
+                "profile_picture_url": "",
+                "bio": "test sample",
+                "followers_count": 537,
+                "verified": true
+            },
+            "products": [],
+            "music": null,
+            "video_url": "https://youtu.be/yDbg3SGQ2DQ?si=FJVVWcyLuLEW0dl0",
+            "thumbnail_url": "https://i.ytimg.com/vi/TNzpBP6B98c/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCUC8NuxOwuG8h2mPVuKx-uaE_1Hg",
+            "description": "India's got Latent EP08",
+            "view_count": 1820000,
+            "duration": "00:54:32",
+            "created_at": "2024-10-14T21:41:11.608829Z",
+            "likes_count": 24569,
+            "comments_count": 0,
+            "shares_count": 0,
+            "is_liked": true,
+            "is_bookmarked": false,
+            "hashtags": []
+        }
+    ],
+    "pagination": {
+        "page": 1,
+        "limit": 3,
+        "total_pages": 3,
+        "total_videos": 7,
+        "previous_cursor": null,
+        "next_cursor": "http://127.0.0.1:8000/api/getAllVideos/?limit=3&page=2"
+    }
+}
